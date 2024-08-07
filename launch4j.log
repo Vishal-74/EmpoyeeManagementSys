@@ -1,0 +1,160 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Ashish\VS_Code\python1\Java\Splash.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Ashish\VS_Code\python1\Java\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-22
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Program Files\Java\jdk-22\bin
+JRE paths:	C:\Program Files\Java\jdk-22;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Ashish\VS_Code\python1\Java\Splash.exe"
+Args length:	54/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Ashish\VS_Code\python1\Java\Splash.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Ashish\VS_Code\python1\Java\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-22
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Program Files\Java\jdk-22\bin
+JRE paths:	C:\Program Files\Java\jdk-22;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Ashish\VS_Code\python1\Java\Splash.exe"
+Args length:	54/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Ashish\VS_Code\python1\Java\Splash.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Ashish\VS_Code\python1\Java\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-22
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Program Files\Java\jdk-22\bin
+JRE paths:	C:\Program Files\Java\jdk-22;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Ashish\VS_Code\python1\Java\Splash.exe"
+Args length:	54/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Ashish\VS_Code\python1\Java\Splash.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Ashish\VS_Code\python1\Java\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-22
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Program Files\Java\jdk-22\bin
+JRE paths:	C:\Program Files\Java\jdk-22;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Ashish\VS_Code\python1\Java\Splash.exe"
+Args length:	54/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Ashish\VS_Code\python1\Java\Splash.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Ashish\VS_Code\python1\Java\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-22
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Program Files\Java\jdk-22\bin
+JRE paths:	C:\Program Files\Java\jdk-22;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Ashish\VS_Code\python1\Java\Splash.exe"
+Args length:	54/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Ashish\VS_Code\python1\Java\Splash.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Ashish\VS_Code\python1\Java\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-22
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Program Files\Java\jdk-22\bin
+JRE paths:	C:\Program Files\Java\jdk-22;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Ashish\VS_Code\python1\Java\Splash.exe"
+Args length:	54/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Ashish\VS_Code\python1\Java\Splash.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Ashish\VS_Code\python1\Java\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-22
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\Java\jdk-22\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;;C:\Program Files\Java\jdk-22\bin
+JRE paths:	C:\Program Files\Java\jdk-22;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\Java\jdk-22\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Ashish\VS_Code\python1\Java\Splash.exe"
+Args length:	54/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Ashish\VS_Code\python1\Java\Splash.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Ashish\VS_Code\python1\Java\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-22
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\Java\jdk-22\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;;C:\Program Files\Java\jdk-22\bin
+JRE paths:	C:\Program Files\Java\jdk-22;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git1\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java\jdk-22\bin;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ashish\AppData\Local\Programs\Python\Python310\;C:\Users\Ashish\AppData\Local\Microsoft\WindowsApps;C:\Users\Ashish\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashish\AppData\Local\GitHubDesktop\bin;C:\Users\Ashish\AppData\Roaming\npm;C:\Program Files\Java\jdk-22\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Ashish\VS_Code\python1\Java\Splash.exe"
+Args length:	54/32768 chars
+Exit code:	0
